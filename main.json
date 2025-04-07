@@ -8,18 +8,18 @@
                 "Order": 1
             },
             {
-                "RawFilePath": "https://raw.githubusercontent.com/Pruthvi-Ramesh/Python-Lab-Validation/refs/heads/main/validateVm.txt",
+                "RawFilePath": "https://raw.githubusercontent.com/Pruthvi-Ramesh/Python/refs/heads/main/validateVm.txt",
                 "Order": 2
             },
             {
-                "RawFilePath": "https://raw.githubusercontent.com/Pruthvi-Ramesh/Python-Lab-Validation/refs/heads/main/validategithubrepo.txt",
+                "RawFilePath": "https://raw.githubusercontent.com/Pruthvi-Ramesh/Python/refs/heads/main/validategithubrepo.txt",
                 "Order": 3,
                 "UnlockingRules": [
                     {
                         "UnlockDependency": "Validations",
                         "UnlockCriteria": "Execution",
                         "DependentValidations": [
-                            "5284e2fe-f3fc-40aa-8817-7abd96694f44"
+                            "b30afc0e-f847-4aa1-af0e-3c18d085f937"
                         ]
                     }
                 ]
