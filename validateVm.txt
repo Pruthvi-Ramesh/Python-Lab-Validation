@@ -25,4 +25,4 @@ Follow below steps to create an EC2 Instance.
 
 # Validation 
 
-<validation step="5284e2fe-f3fc-40aa-8817-7abd96694f44" />
+<validation step="b30afc0e-f847-4aa1-af0e-3c18d085f937" />
